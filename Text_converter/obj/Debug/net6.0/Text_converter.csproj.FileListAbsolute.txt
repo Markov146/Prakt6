@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Text_converter\Text_converter\bin\Debug\net6.0\Text_converter.exe
+C:\Users\user\source\repos\Text_converter\Text_converter\bin\Debug\net6.0\Text_converter.deps.json
+C:\Users\user\source\repos\Text_converter\Text_converter\bin\Debug\net6.0\Text_converter.runtimeconfig.json
+C:\Users\user\source\repos\Text_converter\Text_converter\bin\Debug\net6.0\Text_converter.dll
+C:\Users\user\source\repos\Text_converter\Text_converter\bin\Debug\net6.0\Text_converter.pdb
+C:\Users\user\source\repos\Text_converter\Text_converter\obj\Debug\net6.0\Text_converter.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Text_converter\Text_converter\obj\Debug\net6.0\Text_converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Text_converter\Text_converter\obj\Debug\net6.0\Text_converter.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Text_converter\Text_converter\obj\Debug\net6.0\Text_converter.AssemblyInfo.cs
+C:\Users\user\source\repos\Text_converter\Text_converter\obj\Debug\net6.0\Text_converter.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Text_converter\Text_converter\obj\Debug\net6.0\Text_converter.dll
+C:\Users\user\source\repos\Text_converter\Text_converter\obj\Debug\net6.0\refint\Text_converter.dll
+C:\Users\user\source\repos\Text_converter\Text_converter\obj\Debug\net6.0\Text_converter.pdb
+C:\Users\user\source\repos\Text_converter\Text_converter\obj\Debug\net6.0\Text_converter.genruntimeconfig.cache
+C:\Users\user\source\repos\Text_converter\Text_converter\obj\Debug\net6.0\ref\Text_converter.dll
